@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj": {}
+  },
+  "projects": {
+    "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\Novin.Arayeshyar.Backend.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\Novin.Arayeshyar.Backend.Core.csproj",
+        "projectName": "Novin.Arayeshyar.Backend.Core",
+        "projectPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\Novin.Arayeshyar.Backend.Core.csproj",
+        "packagesPath": "C:\\Users\\Hooshmand\\.nuget\\packages\\",
+        "outputPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hooshmand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj",
+        "projectName": "Novin.Arayeshyar.Backend.DB",
+        "projectPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj",
+        "packagesPath": "C:\\Users\\Hooshmand\\.nuget\\packages\\",
+        "outputPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Hooshmand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\Novin.Arayeshyar.Backend.Core.csproj": {
+                "projectPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Core\\Novin.Arayeshyar.Backend.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

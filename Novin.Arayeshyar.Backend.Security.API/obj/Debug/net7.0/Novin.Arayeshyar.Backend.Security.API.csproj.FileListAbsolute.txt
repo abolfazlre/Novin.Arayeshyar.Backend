@@ -1,0 +1,160 @@
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\appsettings.Development.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\appsettings.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.exe
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.deps.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.runtimeconfig.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.AssemblyReference.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfoInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfo.cs
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cs
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.Novin.Arayeshyar.Backend.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.pack.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.build.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.development.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\scopedcss\bundle\Novin.Arayeshyar.Backend.Security.API.styles.css
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.CopyComplete
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Azure.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Azure.Identity.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Humanizer.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.CodeDom.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Memory.Data.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\appsettings.Development.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\appsettings.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.exe
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.deps.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.runtimeconfig.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Azure.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Azure.Identity.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Humanizer.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.CodeDom.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Memory.Data.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.AssemblyReference.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfoInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.AssemblyInfo.cs
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cs
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.MvcApplicationPartsAssemblyInfo.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.Novin.Arayeshyar.Backend.Security.API.Microsoft.AspNetCore.StaticWebAssets.props
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.build.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Novin.Arayeshyar.Backend.Security.API.props
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.pack.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.build.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\staticwebassets.development.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\scopedcss\bundle\Novin.Arayeshyar.Backend.Security.API.styles.css
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.csproj.CopyComplete
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Security.API.dll

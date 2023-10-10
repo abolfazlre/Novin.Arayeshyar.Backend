@@ -1,0 +1,22 @@
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.deps.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.AssemblyInfoInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.AssemblyInfo.cs
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.deps.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.AssemblyInfoInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.AssemblyInfo.cs
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Core\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Core.dll

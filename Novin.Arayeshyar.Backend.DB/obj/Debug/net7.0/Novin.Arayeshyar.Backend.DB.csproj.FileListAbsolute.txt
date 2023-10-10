@@ -1,0 +1,30 @@
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.deps.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.AssemblyReference.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.AssemblyInfoInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.AssemblyInfo.cs
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.CopyComplete
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.deps.json
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.AssemblyReference.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.AssemblyInfoInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.AssemblyInfo.cs
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.csproj.CopyComplete
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.DB\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.DB.dll
