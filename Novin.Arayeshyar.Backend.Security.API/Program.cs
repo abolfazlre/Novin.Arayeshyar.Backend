@@ -1,5 +1,7 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using Novin.Arayeshyar.Backend.Core.Entities;
 using Novin.Arayeshyar.Backend.DB.Database;
+using Novin.Arayeshyar.Backend.Security.API.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,12 @@ builder.Services.AddDbContext<ArayeshyarDB>(options =>
 {
     options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=ArayeshyarDB;Trusted_Connection=True");
 });
+builder.Services.AddCors(options
+   => options
+    .AddDefaultPolicy(builder => builder
+    .AllowAnyOrigin()
+    .AllowAnyHeader()
+    .AllowAnyMethod()));
 
 var app = builder.Build();
 
@@ -23,29 +31,35 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-var summaries = new[]
-{
-    "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
+app.UseCors();
 
-app.MapGet("/weatherforecast", () =>
+app.MapPost("/adminlogin", (ArayeshyarDB db, LoginRequestDTO login) =>
 {
-    var forecast = Enumerable.Range(1, 5).Select(index =>
-        new WeatherForecast
-        (
-            DateOnly.FromDateTime(DateTime.Now.AddDays(index)),
-            Random.Shared.Next(-20, 55),
-            summaries[Random.Shared.Next(summaries.Length)]
-        ))
-        .ToArray();
-    return forecast;
-})
-.WithName("GetWeatherForecast")
-.WithOpenApi();
+       if(!db.SystemAdmins.Any())
+       {
+           var FirstAdmin = new SystemAdmin("admin", "nimda","0918");
+           db.SystemAdmins.Add(FirstAdmin);
+           db.SaveChanges();
+       } 
+       var result = db.SystemAdmins
+       .Where(l => l.Username == login.Username && l.Password == login.Password)
+       .FirstOrDefault();
+       if(result!=null)
+       {
+           return new
+           {
+               IsOk= true,
+               Message="مدیر جان خوش آمدید"
+           };
+       } 
+       return new
+       {
+           IsOk = false,
+           Message = "ی جای کار میلنگه"
+       }; 
+     
+
+});
 
 app.Run();
 
-internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
-{
-    public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}

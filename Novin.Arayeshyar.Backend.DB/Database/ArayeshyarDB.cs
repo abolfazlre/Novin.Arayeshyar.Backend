@@ -14,6 +14,7 @@ namespace Novin.Arayeshyar.Backend.DB.Database
         public DbSet<Customer> Customers { get; set; }
         public DbSet<BarberShopOwner> BarberShopOwners { get; set; }
         public DbSet<Barber> Barbers { get; set; }
+        public DbSet<Dermatologist> Dermatologists { get; set; }
 
         public ArayeshyarDB(DbContextOptions<ArayeshyarDB> options)
             : base( options )
@@ -35,6 +36,9 @@ namespace Novin.Arayeshyar.Backend.DB.Database
             modelBuilder
                 .Entity<SystemAdmin>()
                 .HasKey(s => s.Username);
+            modelBuilder
+                .Entity<Dermatologist>()
+                .HasKey(m => m.MobileNumber);
         }
     }
 }
