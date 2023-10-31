@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ArayeshyarDB>(options =>
 {
-    options.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=ArayeshyarDB;Trusted_Connection=True");
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MainDB"));
 });
 builder.Services.AddCors(options
    => options
