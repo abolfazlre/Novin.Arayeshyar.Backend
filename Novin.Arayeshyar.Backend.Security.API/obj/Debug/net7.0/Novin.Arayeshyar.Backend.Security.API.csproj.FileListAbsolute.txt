@@ -158,3 +158,4 @@ F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\
 F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.pdb
 F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\Novin.Arayeshyar.Backend.Security.API.genruntimeconfig.cache
 F:\fullstack tamrin\کپی از بک آرایش یار\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.Security.API.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.Security.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

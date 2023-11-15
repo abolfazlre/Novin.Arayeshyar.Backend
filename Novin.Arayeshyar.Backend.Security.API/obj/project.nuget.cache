@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "AhfrKr8Ps11/wjjJFUP3TsQ2XPrvzID/2cqpO8WvXPUZ1Y2t+ad0H9IzaqeZneOd6v0S+nuqM8mnDVLHonMlmw==",
+  "dgSpecHash": "kjpBs9KT7x4f75wtlHxsdXiDjYVa+r6y2sO2IPK6uX1Ukv5N0Lbv5Kq9aUhGNrqnpeFW2LyfR2R9o31PgLTu/w==",
   "success": true,
   "projectFilePath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.Security.API\\Novin.Arayeshyar.Backend.Security.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hooshmand\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Hooshmand\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Hooshmand\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\Hooshmand\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.14\\microsoft.aspnetcore.authentication.jwtbearer.7.0.14.nupkg.sha512",
     "C:\\Users\\Hooshmand\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.11\\microsoft.aspnetcore.openapi.7.0.11.nupkg.sha512",
     "C:\\Users\\Hooshmand\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Hooshmand\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

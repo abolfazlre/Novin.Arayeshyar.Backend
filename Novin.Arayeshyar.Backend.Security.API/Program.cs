@@ -1,12 +1,17 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
 using Novin.Arayeshyar.Backend.Core.Entities;
 using Novin.Arayeshyar.Backend.DB.Database;
 using Novin.Arayeshyar.Backend.Security.API.Models;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<ArayeshyarDB>(options =>
@@ -20,9 +25,25 @@ builder.Services.AddCors(options
     .AllowAnyHeader()
     .AllowAnyMethod()));
 
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+    .AddJwtBearer(options =>
+    {
+        options.RequireHttpsMetadata = false;
+        options.SaveToken = false;
+        options.TokenValidationParameters=new TokenValidationParameters()
+        {
+            ValidateIssuer = true,
+            ValidateAudience = true,
+            ValidAudience = builder.Configuration["Jwt:Audience"],
+            ValidIssuer = builder.Configuration["Jwt:Issuer"],
+            IssuerSigningKey=new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+        };
+    });
+
+builder.Services.AddAuthorization();
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -32,6 +53,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseCors();
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.MapPost("/adminlogin", (ArayeshyarDB db, LoginRequestDTO login) =>
 {
@@ -46,20 +69,43 @@ app.MapPost("/adminlogin", (ArayeshyarDB db, LoginRequestDTO login) =>
        .FirstOrDefault();
        if(result!=null)
        {
+           var claims = new []
+           {
+               new Claim("Username",result.Username.ToString()),
+               new Claim("Fullname",result.Fullname??"".ToString())
+           };
+           var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["jwt:Key"] ?? ""));
+           var signIn = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+           var token = new JwtSecurityToken(
+               builder.Configuration["jwt:Issuer"],
+               builder.Configuration["jwt:Audience"],
+               claims,
+               expires: DateTime.UtcNow.AddDays(3),
+               signingCredentials: signIn);
            return new
            {
                IsOk= true,
-               Message="مدیر جان خوش آمدید"
+               Message = "مدیر جان خوش آمدید",
+               Token = new JwtSecurityTokenHandler().WriteToken(token)
            };
        } 
        return new
        {
            IsOk = false,
-           Message = "ی جای کار میلنگه"
+           Message = "ی جای کار میلنگه",
+           Token=""
        }; 
      
 
 });
+app.MapPost("/admins", (ArayeshyarDB db,ClaimsPrincipal user) =>
+{
+    Console.ForegroundColor = ConsoleColor.Cyan;
+    Console.WriteLine(user.Claims.FirstOrDefault(l => l.Type == "Username")?.Value);
+    Console.ResetColor();
+   return db.SystemAdmins.ToList();
+})
+    .RequireAuthorization();
 
 app.Run();
 
