@@ -1,0 +1,17 @@
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.deps.json
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.DB.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\bin\Debug\net7.0\Novin.Arayeshyar.Backend.Core.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.csproj.AssemblyReference.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.AssemblyInfoInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.AssemblyInfo.cs
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.csproj.CoreCompileInputs.cache
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.csproj.CopyComplete
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\refint\Novin.Arayeshyar.Backend.API.Infrastructure.dll
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\Novin.Arayeshyar.Backend.API.Infrastructure.pdb
+F:\fullstack tamrin\Novin.Arayesh\Novin.Arayeshyar.Backend\Novin.Arayeshyar.Backend.API.Infrastructure\obj\Debug\net7.0\ref\Novin.Arayeshyar.Backend.API.Infrastructure.dll

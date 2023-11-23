@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Novin.Arayeshyar.Backend.Customers.API.props" />
+</Project>

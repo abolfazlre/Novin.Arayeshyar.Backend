@@ -11,6 +11,7 @@
           "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.14",
           "Microsoft.AspNetCore.OpenApi": "7.0.11",
           "Microsoft.EntityFrameworkCore.Design": "7.0.11",
+          "Novin.Arayeshyar.Backend.API.Infrastructure": "1.0.0",
           "Novin.Arayeshyar.Backend.DB": "1.0.0",
           "Swashbuckle.AspNetCore": "6.5.0"
         },
@@ -619,6 +620,16 @@
           }
         }
       },
+      "Novin.Arayeshyar.Backend.API.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.14",
+          "Novin.Arayeshyar.Backend.DB": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.5.0"
+        },
+        "runtime": {
+          "Novin.Arayeshyar.Backend.API.Infrastructure.dll": {}
+        }
+      },
       "Novin.Arayeshyar.Backend.Core/1.0.0": {
         "runtime": {
           "Novin.Arayeshyar.Backend.Core.dll": {}
@@ -1109,6 +1120,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "Novin.Arayeshyar.Backend.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Novin.Arayeshyar.Backend.Core/1.0.0": {
       "type": "project",

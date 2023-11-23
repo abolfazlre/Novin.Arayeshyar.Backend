@@ -17,6 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Novin.Arayeshyar.Backend.API.Infrastructure\Novin.Arayeshyar.Backend.API.Infrastructure.csproj" />
     <ProjectReference Include="..\Novin.Arayeshyar.Backend.DB\Novin.Arayeshyar.Backend.DB.csproj" />
   </ItemGroup>
 

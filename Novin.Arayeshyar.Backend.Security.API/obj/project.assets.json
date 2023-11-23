@@ -1167,6 +1167,24 @@
           }
         }
       },
+      "Novin.Arayeshyar.Backend.API.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "7.0.14",
+          "Novin.Arayeshyar.Backend.DB": "1.0.0",
+          "Swashbuckle.AspNetCore": "6.5.0"
+        },
+        "compile": {
+          "bin/placeholder/Novin.Arayeshyar.Backend.API.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Novin.Arayeshyar.Backend.API.Infrastructure.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "Novin.Arayeshyar.Backend.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3353,6 +3371,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Novin.Arayeshyar.Backend.API.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../Novin.Arayeshyar.Backend.API.Infrastructure/Novin.Arayeshyar.Backend.API.Infrastructure.csproj",
+      "msbuildProject": "../Novin.Arayeshyar.Backend.API.Infrastructure/Novin.Arayeshyar.Backend.API.Infrastructure.csproj"
+    },
     "Novin.Arayeshyar.Backend.Core/1.0.0": {
       "type": "project",
       "path": "../Novin.Arayeshyar.Backend.Core/Novin.Arayeshyar.Backend.Core.csproj",
@@ -3369,6 +3392,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.14",
       "Microsoft.AspNetCore.OpenApi >= 7.0.11",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.11",
+      "Novin.Arayeshyar.Backend.API.Infrastructure >= 1.0.0",
       "Novin.Arayeshyar.Backend.DB >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -3400,6 +3424,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.API.Infrastructure\\Novin.Arayeshyar.Backend.API.Infrastructure.csproj": {
+              "projectPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.API.Infrastructure\\Novin.Arayeshyar.Backend.API.Infrastructure.csproj"
+            },
             "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj": {
               "projectPath": "F:\\fullstack tamrin\\Novin.Arayesh\\Novin.Arayeshyar.Backend\\Novin.Arayeshyar.Backend.DB\\Novin.Arayeshyar.Backend.DB.csproj"
             }
